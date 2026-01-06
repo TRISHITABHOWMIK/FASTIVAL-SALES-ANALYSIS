@@ -66,7 +66,7 @@ This EDA reveals that age, gender, city tier, and occupation significantly influ
 
 ## Author
 
-**Nabadiganta Acharjee**  
+**TRISHITA BHOWMIK**  
 
 ---
 
